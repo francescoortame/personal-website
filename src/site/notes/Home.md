@@ -4,6 +4,8 @@
 
 Interdisciplinary research in Natural Language Processing, Statistics, and Economics.
 
+[[Publications\|Publications]]  |  [[Conferences\|Conferences]]  |  [[Teaching\|Teaching]]  |  [[Contact\|Contact]]
+
 ---
 ### Collaborations
 I am actively collaborating with the [United Nations Economic Commission for Europe (UNECE)](https://unece.org) on Conformal Prediction and Inference for reliable uncertainty quantification when dealing with predictions from large black-box machine learning models.
