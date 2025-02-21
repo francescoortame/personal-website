@@ -5,9 +5,7 @@
 
 [[Publications\|Publications]]  |  [[Conferences\|Conferences]]  |  [[Teaching\|Teaching]]  |  [[Contact\|Contact]]
 
-|     |     |     |     | ![profile.png.png](/img/user/profile.png.png) |     |     |     |     |
-| --- | --- | --- | --- | -------------------- | --- | --- | --- | --- |
-<p style="text-align:center;">Interdisciplinary research in Natural Language Processing, Statistics, and Economics.</p>
+<p style="text-align:center;">Research in Natural Language Processing, Statistics, and Economics.</p>
 
 ---
 ### Collaborations
