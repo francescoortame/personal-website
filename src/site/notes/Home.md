@@ -2,9 +2,12 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
-Interdisciplinary research in Natural Language Processing, Statistics, and Economics.
 
 [[Publications\|Publications]]  |  [[Conferences\|Conferences]]  |  [[Teaching\|Teaching]]  |  [[Contact\|Contact]]
+
+|     |     |     |     | ![profile.png.png](/img/user/profile.png.png) |     |     |     |     |
+| --- | --- | --- | --- | -------------------- | --- | --- | --- | --- |
+<p style="text-align:center;">Interdisciplinary research in Natural Language Processing, Statistics, and Economics.</p>
 
 ---
 ### Collaborations
